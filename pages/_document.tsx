@@ -6,21 +6,15 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
           <link rel="icon" href="/favicon.ico" />
-          <meta
-            name="description"
-            content="See pictures from Next.js Conf and the After Party."
-          />
-          <meta property="og:site_name" content="nextjsconf-pics.vercel.app" />
-          <meta
-            property="og:description"
-            content="See pictures from Next.js Conf and the After Party."
-          />
-          <meta property="og:title" content="Next.js Conf 2022 Pictures" />
+          <meta name="description" content="연세남성합창단단" />
+          <meta property="og:site_name" content="글리클럽 창단 40주년 연주회" />
+          <meta property="og:description" content="연세남성합창단단" />
+          <meta property="og:title" content="글리클럽 창단 40주년 연주회" />
           <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:title" content="Next.js Conf 2022 Pictures" />
+          <meta name="twitter:title" content="글리클럽 창단 40주년 연주회" />
           <meta
             name="twitter:description"
-            content="See pictures from Next.js Conf and the After Party."
+            content="글리클럽 창단 40주년 연주회."
           />
         </Head>
         <body className="bg-black antialiased">

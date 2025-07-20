@@ -33,11 +33,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
         <title>연세남성합창단 창단 40주년 연주회</title>
         <meta
           property="og:image"
-          content="https://nextjsconf-pics.vercel.app/og-image.png"
-        />
-        <meta
-          name="twitter:image"
-          content="https://nextjsconf-pics.vercel.app/og-image.png"
+          content="https://www.yonseigleeclub.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdune6omdn%2Fimage%2Fupload%2Fc_scale%2Cw_720%2F271_uksaqk.webp&w=640&q=75"
         />
       </Head>
       <main className="mx-auto max-w-[1960px] p-4">
